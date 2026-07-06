@@ -2,6 +2,13 @@
 hii guys my name is wkelison, I'm 18years old, in August I'll start my university at UFRPE, there I'll study computer science. actually I can speak 2 different languages and japanese. however I'm still learning japanese.
 I want to improve my knowledge in programming and work in a team 
 my hobbies are playing chess, boxing, writing, and study different topics
-recently I went to Canada to study english, my school was ILSC. however I studied technology and innovation at graystone college 
-I came to Pernambuco with different ideas and goals, so I want to share this with my friends. 
-if you want to talk just call me 
+recently I went to Canada to study english, my school was ILSC. however I studied technology and innovation at graystone college.
+atualmente estou fazendo o FAP(formacao acelerada de programadores), ate o final do curso quero dominar:
+-uso das ferramentas de teste de software
+-java script
+-QA (Quality Assurance)
+## foco atual
+quero me especializar na erea de programacao para seguir carreira nessa area, por enquanto quero focar em back-end, mas planejo estudar front-end tambem, meu objetivo e ser um programador full stack porque isso me abriria mais portas para diferentes vagas de emprego nessa area :D
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]segue meu linkedin para quem tem interesse (https://www.linkedin.com/in/wkelison-pereira/) 
+
