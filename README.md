@@ -10,5 +10,5 @@ atualmente estou fazendo o FAP(formacao acelerada de programadores), ate o final
 ## foco atual
 quero me especializar na erea de programacao para seguir carreira nessa area, por enquanto quero focar em back-end, mas planejo estudar front-end tambem, meu objetivo e ser um programador full stack porque isso me abriria mais portas para diferentes vagas de emprego nessa area :D
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) segue meu linkedin para quem tem interesse (https://www.linkedin.com/in/wkelison-pereira/) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/wkelison-pereira/) 
 
