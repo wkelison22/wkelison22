@@ -8,7 +8,7 @@ atualmente estou fazendo o FAP(formacao acelerada de programadores), ate o final
 -java script
 -QA (Quality Assurance)
 ## foco atual
-quero me especializar na erea de programacao para seguir carreira nessa area, por enquanto quero focar em back-end, mas planejo estudar front-end tambem, meu objetivo e ser um programador full stack porque isso me abriria mais portas para diferentes vagas de emprego nessa area :D
+uero me especializar na área de programação para seguir carreira nessa área. Por enquanto, quero focar em back-end, mas também pretendo estudar front-end. Meu objetivo é me tornar um desenvolvedor full stack, pois isso abrirá mais portas para diferentes oportunidades de emprego na área :D
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/wkelison-pereira/) 
 
